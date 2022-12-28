@@ -3,7 +3,7 @@
 * [Technologies](#technologies)
 * [Postman](#postman)
 * [Pytest](#pytest)
-* [Behave Restful](#behave_restful)
+* [Behave Restful](#behave-restful)
 
 ## General info
 I'm too lazy to translate it into English ;)
